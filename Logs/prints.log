@@ -1,0 +1,7 @@
+13:08:11.384 [main] ERROR FunctionalTestSuite.DemoBlaze.LoginTest - This is an Error
+13:08:11.443 [main] ERROR FunctionalTestSuite.DemoBlaze.LoginTest - This is for trace
+13:08:11.454 [main] INFO  FunctionalTestSuite.DemoBlaze.LoginTest - Login Test Started
+13:08:11.454 [main] ERROR FunctionalTestSuite.DemoBlaze.LoginTest - Error displayed
+13:08:11.455 [main] DEBUG FunctionalTestSuite.DemoBlaze.LoginTest - Debugging Started
+13:08:11.455 [main] FATAL FunctionalTestSuite.DemoBlaze.LoginTest - fatal error
+13:08:11.455 [main] TRACE FunctionalTestSuite.DemoBlaze.LoginTest - Tracing
